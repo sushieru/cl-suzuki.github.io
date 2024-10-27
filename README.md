@@ -1,14 +1,14 @@
-# Shieru Suzuki / 鈴木 紫琉       [CV](#)
-
-## プロフィール / Profile
-
-僕は大規模なデータで学習されたモデルが実世界に急速に浸透してきて人間よりも知的に勝っていくこの時代に、人が自分の行動をコンピュータに委ねる愉快な世界を目指して研究しています。具体的には、人がカジュアルに（＝自己目的的に）創作活動して楽しく生きるのを増進するものをつくります。ヒューマン・コンピュータ・インタラクション分野で研究をしていますが、生態心理学に関心があるので、活動の現場に踏み入って人を取り囲む周りと身体との関わりを利用したものづくりに深い喜びを感じます。
+# Shieru Suzuki
+![Me](https://sushieru.github.io/cl-suzuki.github.io/me.png)
+## Profile
 
 In this era where models trained on large-scale data are rapidly permeating the real world and surpassing human intelligence, I am researching a delightful world where people entrust their actions to computers. Specifically, I create things that enhance people's ability to casually (self-purposely) engage in creative activities and live joyfully. While I conduct research in the field of Human-Computer Interaction, I have an interest in ecological psychology, and I find deep joy in creating things that utilize the relationship between the environment surrounding people and their bodies by stepping into the sites of activity.
 
+僕は大規模なデータで学習されたモデルが実世界に急速に浸透してきて人間よりも知的に勝っていくこの時代に、人が自分の行動をコンピュータに委ねる愉快な世界を目指して研究しています。具体的には、人がカジュアルに（＝自己目的的に）創作活動して楽しく生きるのを増進するものをつくります。ヒューマン・コンピュータ・インタラクション分野で研究をしていますが、生態心理学に関心があるので、活動の現場に踏み入って人を取り囲む周りと身体との関わりを利用したものづくりに深い喜びを感じます。
+
 ---
 
-## 研究業績 / Publications
+## Publications
 
 ### International Conferences
 
@@ -26,7 +26,7 @@ In this era where models trained on large-scale data are rapidly permeating the 
 
 ---
 
-## 受賞歴 / Honors
+## Honors
 
 - **鈴木紫琉**，令和4年度 筑波大学 情報学群長表彰（筑波大学 情報学群 情報メディア創成学類），2023年3月24日
 
@@ -36,30 +36,8 @@ In this era where models trained on large-scale data are rapidly permeating the 
 
 ---
 
-## メディア掲載 / Media Presentations
-
-### Web Articles
-
-- 「Digital Content EXPO 2020 Online Innovative Technologies 2020」表彰式, [CGWORLD.jp](https://cgworld.jp/feature/202012-dcexpo.html), 2020年12月23日
-
-- ゴキブリが絵を描き、モノを運ぶ　群れを遠隔操作する技術「Calmbots」筑波大学が開発, [ITmedia NEWS](https://www.itmedia.co.jp/news/articles/2012/01/news098.html), 2020年12月1日
-
-- Ученые из Японии научили тараканов работать, [Рамблер](https://news.rambler.ru/tech/45286835-uchenye-iz-yaponii-nauchili-tarakanov-rabotat/), 2020年11月22日
-
-- 【內有圖不喜請左轉】日本團隊打造「半機器蟑螂」，好飼養、易繁殖、還可以搬東西, [TechOrange 科技報橘](https://buzzorange.com/techorange/2020/11/19/japan-cyborg-cockroaches/), 2020年11月19日
-
-- **Calmbots, the Cyborg Cockroaches That Can Perform Small Household Tasks**, [autoevolution](https://www.autoevolution.com/news/calmbots-the-cyborg-cockroaches-that-can-perform-small-household-tasks-151252.html), November 9, 2020
-
-- **Calmbots: así son las cucarachas robot que dibujan líneas y mueven objetos**, [LA NACION](https://www.lanacion.com.ar/tecnologia/calmbots-asi-son-cucarachas-robot-dibujan-lineas-nid2501988 ), November 8, 2020
-
-- **Cyborg cockroaches designed to complete tasks inside your HOME can carry objects across the room, transform into a display and draw objects on paper**, [Daily Mail Online](https://www.dailymail.co.uk/sciencetech/article-8918671/Cyborg-cockroaches-designed-complete-tasks-inside-HOME-carry-objects-room.html), November 5, 2020
-
-- **A Swarm of Cyborg Cockroaches That Lives in Your House**, [IEEE Spectrum](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/swarm-of-cyborg-cockroaches), November 4, 2020
-
----
-
 ## Contact
 
-- **Email**: [ss.sft.wasd@gmail.com](mailto:ss.sft.wasd@gmail.com)
 - **X（旧Twitter）**: [@suzuki_stim](https://x.com/suzuki_stim)
 - **Instagram**: [@cl_szk](https://www.instagram.com/cl_szk/)
+- **Email**: [ss.sft.wasd@gmail.com](mailto:ss.sft.wasd@gmail.com)
