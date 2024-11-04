@@ -2,11 +2,52 @@
 ![Me](https://sushieru.github.io/cl-suzuki.github.io/me.png)
 ## Profile
 
-In this era where models trained on large-scale data are rapidly permeating the real world and surpassing human intelligence, I am researching a delightful world where people entrust their actions to computers. Specifically, I create things that enhance people's ability to casually (self-purposely) engage in creative activities and live joyfully. While I conduct research in the field of Human-Computer Interaction, I have an interest in ecological psychology, and I find deep joy in creating things that utilize the relationship between the environment surrounding people and their bodies by stepping into the sites of activity.
+短い動画を指でなぞり、ただ眺めるだけの日々。気づけば、時間だけが過ぎていく。「楽しい」はずなのに、心のどこかにぽっかりと穴が開いている。そんな感覚、ありませんか？
 
-僕は大規模なデータで学習されたモデルが実世界に急速に浸透してきて人間よりも知的に勝っていくこの時代に、人が自分の行動をコンピュータに委ねる愉快な世界を目指して研究しています。具体的には、人がカジュアルに（＝自己目的的に）創作活動して楽しく生きるのを増進するものをつくります。ヒューマン・コンピュータ・インタラクション分野で研究をしていますが、生態心理学に関心があるので、活動の現場に踏み入って人を取り囲む周りと身体との関わりを利用したものづくりに深い喜びを感じます。
+私たちは、知らず知らずのうちに"安楽な娯楽"の中で停滞しているのかもしれません。受け身でいることに慣れてしまい、良質な喜びを見失っているのではないでしょうか。
+
+ある時、ふと考えました。もし、受動的に「体を動かす喜び」を感じることができたら、自分の中の熱量はどう変わるのだろうと。
+
+想像してみてください。特別な装置を身に着けるだけで、あなたの体が自然とリズムに乗り出す。難しいことは何もいりません。ただ身を任せるだけ。音楽が流れ、体が動き、心が解き放たれる。その瞬間、これまで感じたことのない高揚感や解放感が全身を駆け巡ります。
+
+私は、その「受動的に身体を動かす喜び」を創り出すプロジェクトを進めています。最新のテクノロジーと創造性を組み合わせて、人々が新たな体験を得られる世界を目指しています。
+
+この取り組みは、単に新しいエンターテインメントを提供するだけではありません。人々が自分自身と向き合い、生きる力を取り戻す手助けとなるのです。
+
+しかし、この夢を実現するためには、皆様のご支援が必要です。技術の開発、装置の製作、人のご縁、そしてそれを多くの人々に届けるためには、多くの挑戦とリソースが求められます。
+
+私は信じています。受動的に身体を動かす喜びが、未来の扉を開く鍵になると。安楽な娯楽から一歩踏み出し、生きる力をまとった自分を再発見するように。
+
+**体が勝手に動きだす、生きる力を呼び覚ます。**
 
 ---
+**Discover the Hidden Joy Within You—Without Lifting a Finger**
+
+Have you ever found yourself endlessly swiping through short videos, just watching as time slips away? It's supposed to be "fun," yet deep down, there's an emptiness—a hollow feeling you can't quite shake. Does that resonate with you?
+
+Perhaps, without even realizing it, we've become trapped in a cycle of "effortless entertainment." We've gotten so used to being passive that we've lost sight of what genuine joy feels like.
+
+But then, a thought sparked within me: What if you could experience the **joy of moving your body**—passively? How would that reignite the fire inside you?
+
+Imagine this: You slip on a special device, and suddenly, your body naturally starts to move with the rhythm. No complicated steps, no effort—just pure, instinctive motion. The music flows, your body responds, and your spirit soars. In that moment, a wave of exhilaration and liberation washes over you like nothing you've ever felt before.
+
+I'm leading a project to create this very experience—the **"passive joy of movement."** By fusing cutting-edge technology with boundless creativity, we're crafting a world where people can embrace something entirely new.
+
+But this isn't just about offering a novel form of entertainment. It's about helping you reconnect with yourself, to **reclaim the vitality** that makes life truly vibrant.
+
+To bring this dream to life, I need your support. Developing the technology, crafting the devices, building connections, and sharing this experience with the world—it all demands passion, effort, and resources.
+
+I wholeheartedly believe that unlocking the joy of passive movement is the key to opening the doors to our future. It's about stepping beyond effortless consumption to rediscover a more empowered, lively you.
+
+**Let your body move on its own, and awaken the power to truly live.**
+
+
+## Contact
+
+- **Email**: [ss.sft.wasd@gmail.com](mailto:ss.sft.wasd@gmail.com)
+- **X（旧Twitter）**: [@suzuki_stim](https://x.com/suzuki_stim)
+- **Instagram**: [@cl_szk](https://www.instagram.com/cl_szk/)
+
 
 ## Publications
 
@@ -33,11 +74,3 @@ In this era where models trained on large-scale data are rapidly permeating the 
 - **佃優河**, **田上大智**, **貞末真明**, **鈴木紫琉**, **盧俊利**, **落合陽一**. **Calmbots**. デジタルコンテンツEXPO, Innovative Technologies 2020 採択技術 IDCAJ会長賞, 2020年11月14日. [https://online.dcexpo.jp/i-tec/](https://online.dcexpo.jp/i-tec/)
 
 - **佃優河**, **田上大智**, **貞末真明**, **鈴木紫琉**, **盧俊利**, **落合陽一**. **Calmbots**. デジタルコンテンツEXPO Innovative Technologies 2020 採択技術, Innovative Technologies 2020 Special Prize -Crazy-, 2020年10月20日. [https://www.dcexpo.jp/itech2020](https://www.dcexpo.jp/itech2020)
-
----
-
-## Contact
-
-- **X（旧Twitter）**: [@suzuki_stim](https://x.com/suzuki_stim)
-- **Instagram**: [@cl_szk](https://www.instagram.com/cl_szk/)
-- **Email**: [ss.sft.wasd@gmail.com](mailto:ss.sft.wasd@gmail.com)
