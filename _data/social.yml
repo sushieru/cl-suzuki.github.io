@@ -18,10 +18,10 @@
   icon: ri:mastodon-fill
   color: '#6364FF'
 
-- name: whatsapp
-  url: https://wa.me/1XXXXXXXXXX
-  icon: ri:whatsapp-fill
-  color: '#25D366'
+# - name: whatsapp
+#   url: https://wa.me/1XXXXXXXXXX
+#   icon: ri:whatsapp-fill
+#   color: '#25D366'
 
 - name: youtube
   url: https://www.youtube.com/@example
